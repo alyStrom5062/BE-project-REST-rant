@@ -1,4 +1,4 @@
-('dotenv').config()
+require('dotenv').config()
 // Require express
 const express = require("express")
 const app = express()
