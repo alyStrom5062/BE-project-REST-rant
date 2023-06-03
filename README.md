@@ -2,7 +2,9 @@
 
 REST-Rant is an app where users can review restaurants.
 
-# Method
+| First Header | Second Header |
+|--------------|---------------|
+| The           | Adventure
 
 GET
 GET
@@ -16,8 +18,6 @@ POST
 DELETE
 GET
 
-## Path
-
 /
 /places
 /places
@@ -29,8 +29,6 @@ GET
 /places/:id/rant
 /places/:id/rant/:rantId
 *
-
-### Purpose
 	
 Home page
 Places index page
