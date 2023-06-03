@@ -5,6 +5,7 @@ function Def (html) {
         <html>
             <head>
                 <title>Title</title>
+                <link rel="stylesheet" href="https://www.bootstrapcdn.com/"/>
             </head>
             <body>
                 {html.children}
@@ -12,5 +13,4 @@ function Def (html) {
         </html>
     )
 }
-
 module.exports = Def
