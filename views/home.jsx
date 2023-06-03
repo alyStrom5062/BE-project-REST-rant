@@ -4,13 +4,20 @@ const Def = require('./default')
 function home () {
     return (
         <Def>
-            <main>
+            <html>
+            <head>
+                <title>Title</title>
+                <link rel="stylesheet" href="./css/style.css"/>
+            </head>
+            <body>
+                <main>
                 <h1>HOME</h1>
                 <a href="/places">
                 <button className="btn-primary">Places Page</button>
                 </a>
-
-            </main>
+                </main>
+            </body>
+            </html>
         </Def>
     )
 }
