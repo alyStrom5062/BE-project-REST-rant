@@ -3,10 +3,10 @@
 REST-Rant is an app where users can review restaurants.
 
 | First Header | Second Header | Third Header |
-|--------------|---------------|
-| The          | Adventure     |
-|--------------|---------------|
-| GET          | GET           | 
+|--------------|---------------|--------------|
+| The          | Adventure     | Zone         |
+|--------------|---------------|--------------|
+| GET          | GET           | GET          |
 GET
 GET
 POST
